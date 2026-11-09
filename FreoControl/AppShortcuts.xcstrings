@@ -1,0 +1,120 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Pause ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Pause ${applicationName}",
+              "Pause ${applicationName} robot",
+              "Run ${applicationName} pause",
+              "Run ${applicationName} pause robot",
+              "Use ${applicationName} to pause",
+              "Use ${applicationName} to pause the robot",
+              "${applicationName} pause",
+              "Pause the robot with ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Run ${applicationName} mop ${room}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Run ${applicationName} mop ${room}",
+              "Run ${applicationName} robot mop ${room}",
+              "Use ${applicationName} to mop ${room}",
+              "${applicationName} mop ${room}",
+              "Mop ${room} with ${applicationName}",
+              "Run ${applicationName} mop"
+            ]
+          }
+        }
+      }
+    },
+    "Run ${applicationName} vacuum ${room}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Run ${applicationName} vacuum ${room}",
+              "Run ${applicationName} robot vacuum ${room}",
+              "Use ${applicationName} to vacuum ${room}",
+              "${applicationName} vacuum ${room}",
+              "Vacuum ${room} with ${applicationName}",
+              "Run ${applicationName} vacuum"
+            ]
+          }
+        }
+      }
+    },
+    "Run ${applicationName} vacuum and mop ${room}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Run ${applicationName} vacuum and mop ${room}",
+              "Run ${applicationName} robot vacuum and mop ${room}",
+              "Use ${applicationName} to vacuum and mop ${room}",
+              "${applicationName} vacuum and mop ${room}",
+              "Vacuum and mop ${room} with ${applicationName}",
+              "Run ${applicationName} vacuum and mop"
+            ]
+          }
+        }
+      }
+    },
+    "Run ${applicationName} vacuum then mop ${room}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Run ${applicationName} vacuum then mop ${room}",
+              "Run ${applicationName} robot vacuum then mop ${room}",
+              "Use ${applicationName} to vacuum then mop ${room}",
+              "${applicationName} vacuum then mop ${room}",
+              "Vacuum then mop ${room} with ${applicationName}",
+              "Run ${applicationName} vacuum then mop"
+            ]
+          }
+        }
+      }
+    },
+    "Stop ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Stop ${applicationName}",
+              "Stop ${applicationName} robot",
+              "Run ${applicationName} stop",
+              "Run ${applicationName} stop robot",
+              "Use ${applicationName} to stop",
+              "Use ${applicationName} to stop the robot",
+              "${applicationName} stop",
+              "Stop the robot with ${applicationName}",
+              "Dock ${applicationName}",
+              "Return ${applicationName} to dock"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
